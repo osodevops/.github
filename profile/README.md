@@ -1,2 +1,2 @@
- ![OSO - The Kafka Experts](https://github.com/osodevops/.github/blob/main/profile/oso%20hero%201012.png)
+ ![OSO - The Kafka Experts](https://github.com/osodevops/.github/blob/main/profile/oso_hero_1012.png)
 
