@@ -10,6 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Apache Kafka Guide: A Beginner’s Guide](https://oso.sh/blog/apache-kafka-guide/)
+- [Kafka Performance 101](https://oso.sh/blog/kafka-performance-101/)
+- [Understanding Apache Kafka: When NOT to Use Apache Kafka?](https://oso.sh/blog/understanding-apache-kafka/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
