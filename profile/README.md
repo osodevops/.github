@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Kafka for End to End Analytics](https://oso.sh/blog/kafka-for-end-to-end-analytics/)
 - [Apache Kafka: How to reprocess messages in Kafka](https://oso.sh/blog/reprocess-messages-in-kafka/)
 - [Apache Kafka Guide: A Beginner’s Guide](https://oso.sh/blog/apache-kafka-guide/)
-- [Kafka Performance 101](https://oso.sh/blog/kafka-performance-101/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
