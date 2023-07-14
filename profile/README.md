@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Streams vs Flink](https://oso.sh/blog/kafka-streams-vs-flink/)
+- [Apache Kafka Common Mistakes and Bad Practices](https://oso.sh/blog/apache-kafka-common-mistakes/)
 - [Kafka Cruise Control 101](https://oso.sh/blog/kafka-cruise-control/)
-- [Kafka performance best practices for monitoring and alerting](https://oso.sh/blog/kafka-performance-best-practices/)
-- [Kafka for End to End Analytics](https://oso.sh/blog/kafka-for-end-to-end-analytics/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
