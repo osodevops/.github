@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Real-time Push APIs Using Kafka](https://oso.sh/blog/real-time-push-apis-using-kafka/)
+- [End-to-End tracing in event driven architectures](https://oso.sh/blog/end-to-end-tracing-in-event-driven-architectures/)
 - [Kafka Streams vs Flink](https://oso.sh/blog/kafka-streams-vs-flink/)
-- [Apache Kafka Common Mistakes and Bad Practices](https://oso.sh/blog/apache-kafka-common-mistakes/)
-- [Kafka Cruise Control 101](https://oso.sh/blog/kafka-cruise-control/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
