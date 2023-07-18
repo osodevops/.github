@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
-- [The new consumer rebalance protocol KIP-848](https://oso.sh/blog/the-new-consumer-rebalance-protocol-kip-848/)
-- [Real-time Push APIs Using Kafka](https://oso.sh/blog/real-time-push-apis-using-kafka/)
-- [End-to-End Tracing in Event Driven Architectures](https://oso.sh/blog/end-to-end-tracing-in-event-driven-architectures/)
+- [Kafka Streams Memory Best Practices](https://oso.sh/blog/kafka-streams-memory-best-practices/)
+- [Introduction to migrating to batch processes to Kafka](https://oso.sh/blog/introduction-to-migrating-to-batch-processes-to-kafka/)
+- [Reducing the TCO of Kafka on public cloud](https://oso.sh/blog/kafka-on-public-cloud-reducing-the-tco-of-kafka/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
