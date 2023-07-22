@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
-- [What is Apache Kafka? The Ultimate Kafka Guide](https://oso.sh/blog/what-is-apache-kafka/)
 - [Kafka Streams Memory Best Practices](https://oso.sh/blog/kafka-streams-memory-best-practices/)
 - [Introduction to migrating to batch processes to Kafka](https://oso.sh/blog/introduction-to-migrating-to-batch-processes-to-kafka/)
+- [Reducing the TCO of Kafka on public cloud](https://oso.sh/blog/kafka-on-public-cloud-reducing-the-tco-of-kafka/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
