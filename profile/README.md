@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Bringing Kafka Without Zookeeper Into Production](https://oso.sh/blog/kafka-without-zookeeper/)
+- [How to build a custom Kafka Streams Statestores](https://oso.sh/blog/kafka-streams-statestores/)
 - [Latest Kafka Industry Trends, Kafka Playbook, Kafka Resources [ July 2023 ]](https://oso.sh/blog/latest-kafka-industry-trends-kafka-playbook-kafka-resources-july-2023/)
-- [What is Apache Kafka? The Ultimate Kafka Guide](https://oso.sh/blog/what-is-apache-kafka/)
-- [Kafka as a service: All You Need To Know](https://oso.sh/blog/kafka-as-a-service-all-you-need-to-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
