@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [How to deploy Kafka consumers on Kubernetes](https://oso.sh/blog/kafka-consumers-on-kubernetes/)
+- [How to avoid configuration drift across multiple Kafka environments using GitOps](https://oso.sh/blog/configuration-drift-management/)
 - [Bringing Kafka Without Zookeeper Into Production](https://oso.sh/blog/kafka-without-zookeeper/)
-- [How to build a custom Kafka Streams Statestores](https://oso.sh/blog/kafka-streams-statestores/)
-- [Latest Kafka Industry Trends, Kafka Playbook, Kafka Resources [ July 2023 ]](https://oso.sh/blog/latest-kafka-industry-trends-kafka-playbook-kafka-resources-july-2023/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
