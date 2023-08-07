@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Streams Rebalances and Assignments 101](https://oso.sh/blog/kafka-streams-101/)
 - [How to deploy Kafka consumers on Kubernetes](https://oso.sh/blog/kafka-consumers-on-kubernetes/)
 - [How to avoid configuration drift across multiple Kafka environments using GitOps](https://oso.sh/blog/configuration-drift-management/)
-- [Bringing Kafka Without Zookeeper Into Production](https://oso.sh/blog/kafka-without-zookeeper/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
