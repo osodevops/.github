@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Big Data LDN X Kafka Meetup London Special Event 🚀](https://oso.sh/blog/the-kafka-meetup-big-data-ldn-september-2023/)
 - [Batch vs Real time stream processing: A beginners guide](https://oso.sh/blog/batch-vs-real-time-stream-processing/)
 - [5 Powerful Steps to Real-Time Data Magic with DBT Transformation](https://oso.sh/blog/dbt-for-real-time-data/)
-- [Tips for moving from Batch to Real Time data streaming](https://oso.sh/blog/tips-for-moving-from-batch-to-real-time-data-streaming/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
