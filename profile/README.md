@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [How to Migrate Kafka Cluster with Limited Downtime](https://oso.sh/blog/how-to-migrate-kafka-cluster/)
+- [The future of Data Streaming using shared data products](https://oso.sh/blog/the-future-of-data-streaming/)
 - [🚀 Big Data LDN X Kafka Meetup London Special Event 🚀](https://oso.sh/blog/the-kafka-meetup-big-data-ldn-september-2023/)
-- [Batch vs Real time stream processing: A beginners guide](https://oso.sh/blog/batch-vs-real-time-stream-processing/)
-- [5 Powerful Steps to Real-Time Data Magic with DBT Transformation](https://oso.sh/blog/dbt-for-real-time-data/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
