@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Serverless Tired Storage in Apache Kafka](https://oso.sh/blog/serverless-tired-storage-in-apache-kafka/)
 - [Machine Learning with Apache Kafka](https://oso.sh/blog/machine-learning-with-apache-kafka/)
 - [The Kafka Report 007: Batch to Real-Time with Kafka, and Resources](https://oso.sh/blog/the-kafka-report-007-batch-to-real-time-with-kafka-and-resources/)
-- [Apache Kafka Security using OAuth](https://oso.sh/blog/apache-kafka-security/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
