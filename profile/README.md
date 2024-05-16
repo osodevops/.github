@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Kafka producer best practices](https://oso.sh/blog/kafka-producer-best-practices/)
+- [5 Kafka Error Handling Tips](https://oso.sh/blog/5-kafka-error-handling-tips/)
 - [Serverless Tiered Storage in Apache Kafka](https://oso.sh/blog/serverless-tiered-storage-in-apache-kafka/)
-- [Machine Learning with Apache Kafka](https://oso.sh/blog/machine-learning-with-apache-kafka/)
-- [The Kafka Report 007: Batch to Real-Time with Kafka, and Resources](https://oso.sh/blog/the-kafka-report-007-batch-to-real-time-with-kafka-and-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
