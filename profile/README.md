@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [5 Kafka Error Handling Tips](https://oso.sh/blog/5-kafka-error-handling-tips/)
 - [How to migrate Kafka to KRaft mode](https://oso.sh/blog/how-to-migrate-kafka-to-kraft-mode/)
 - [Kafka producer best practices](https://oso.sh/blog/kafka-producer-best-practices/)
-- [5 Kafka Error Handling Tips](https://oso.sh/blog/5-kafka-error-handling-tips/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
