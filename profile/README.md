@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [How to increase the adopt of Kafka in your team](https://oso.sh/blog/how-to-increase-the-adopt-of-kafka-in-your-team/)
 - [Current 2024: No clear vision for the future of Confluent?](https://oso.sh/blog/confluent-current-2024/)
 - [Kafka producer best practices](https://oso.sh/blog/kafka-producer-best-practices/)
-- [5 Kafka Error Handling Tips](https://oso.sh/blog/5-kafka-error-handling-tips/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
