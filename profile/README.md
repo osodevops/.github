@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning with Apache Kafka](https://oso.sh/blog/machine-learning-with-apache-kafka/)
 - [What are the key concepts of Apache Kafka](https://oso.sh/blog/what-are-the-key-concepts-of-apache-kafka/)
 - [How to increase the adopt of Kafka in your team](https://oso.sh/blog/how-to-increase-the-adopt-of-kafka-in-your-team/)
-- [Current 2024: No clear vision for the future of Confluent?](https://oso.sh/blog/confluent-current-2024/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
