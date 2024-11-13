@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Confluent Certified Developer for Apache Kafka :: Study Guide](https://oso.sh/blog/confluent-certified-developer-for-apache-kafka-study-guide/)
 - [Serverless Tiered Storage in Apache Kafka](https://oso.sh/blog/serverless-tiered-storage-in-apache-kafka/)
 - [Machine Learning with Apache Kafka](https://oso.sh/blog/machine-learning-with-apache-kafka/)
-- [What are the key concepts of Apache Kafka](https://oso.sh/blog/what-are-the-key-concepts-of-apache-kafka/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
