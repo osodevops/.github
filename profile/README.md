@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [The future of streaming data](https://oso.sh/blog/the-future-of-streaming-data/)
 - [Apache Kafka 2024 Review](https://oso.sh/blog/apache-kafka-2024-review/)
 - [Confluent Certified Developer for Apache Kafka :: Study Guide](https://oso.sh/blog/confluent-certified-developer-for-apache-kafka-study-guide/)
-- [Serverless Tiered Storage in Apache Kafka](https://oso.sh/blog/serverless-tiered-storage-in-apache-kafka/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
