@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [How to design Kafka events and event streams](https://oso.sh/blog/how-to-design-kafka-events-and-event-streams/)
 - [How to secure your Apache Kafka cluster](https://oso.sh/blog/how-to-secure-your-apache-kafka-cluster/)
 - [Apache Kafka – Glossary](https://oso.sh/blog/apache-kafka-glossary/)
-- [Kafka Consumer Configuration Cheatsheet](https://oso.sh/blog/kafka-consumer-configuring-cheatsheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
