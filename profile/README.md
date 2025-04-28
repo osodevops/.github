@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
-- [How to Scale Kafka in Your Organisation Using a Federated EDA Strategy](https://oso.sh/blog/how-to-scale-kafka-in-your-organisation-using-a-federated-eda-strategy/)
+- [Guide to ZooKeeper to KRaft migration](https://oso.sh/blog/guide-to-zookeeper-to-kraft-migration/)
+- [How to scale Apache Kafka in your organisation](https://oso.sh/blog/how-to-scale-apache-kafka-in-your-organisation/)
 - [Multi-message types in Kafka topics: Lessons from a real-world pipeline](https://oso.sh/blog/multi-message-types-in-kafka-topics/)
-- [How to design Kafka events and event streams](https://oso.sh/blog/how-to-design-kafka-events-and-event-streams/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
