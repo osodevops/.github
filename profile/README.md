@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Kafka queues in Apache Kafka 4.0 via Share Groups](https://oso.sh/blog/kafka-queues-in-apache-kafka-4-0-via-share-groups/)
 - [Apache Kafka outbox pattern](https://oso.sh/blog/apache-kafka-outbox-pattern/)
 - [Guide to ZooKeeper to KRaft migration](https://oso.sh/blog/guide-to-zookeeper-to-kraft-migration/)
-- [How to scale Apache Kafka in your organisation](https://oso.sh/blog/how-to-scale-apache-kafka-in-your-organisation/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
