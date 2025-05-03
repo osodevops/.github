@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [How to run Apache Kafka across multiple Kubernetes clusters](https://oso.sh/blog/how-to-run-apache-kafka-across-multiple-kubernetes-clusters/)
 - [Kafka queues in Apache Kafka 4.0 via Share Groups](https://oso.sh/blog/kafka-queues-in-apache-kafka-4-0-via-share-groups/)
 - [Apache Kafka outbox pattern](https://oso.sh/blog/apache-kafka-outbox-pattern/)
-- [Guide to ZooKeeper to KRaft migration](https://oso.sh/blog/guide-to-zookeeper-to-kraft-migration/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
