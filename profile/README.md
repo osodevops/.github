@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Building Bulletproof Disaster Recovery for Apache Kafka: A Field-Tested Architecture](https://oso.sh/blog/building-bulletproof-disaster-recovery-for-apache-kafka-a-field-tested-architecture/)
 - [How to run Apache Kafka across multiple Kubernetes clusters](https://oso.sh/blog/how-to-run-apache-kafka-across-multiple-kubernetes-clusters/)
 - [Kafka queues in Apache Kafka 4.0 via Share Groups](https://oso.sh/blog/kafka-queues-in-apache-kafka-4-0-via-share-groups/)
-- [Apache Kafka outbox pattern](https://oso.sh/blog/apache-kafka-outbox-pattern/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
