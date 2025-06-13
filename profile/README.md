@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [How Kafka Consumer 4.0’s New Rebalance Protocol Eliminates the Two-Phase Bottleneck](https://oso.sh/blog/kafka-consumer-4-0-new-rebalance-protocol/)
 - [Building Bulletproof Disaster Recovery for Apache Kafka: A Field-Tested Architecture](https://oso.sh/blog/building-bulletproof-disaster-recovery-for-apache-kafka-a-field-tested-architecture/)
 - [How to run Apache Kafka across multiple Kubernetes clusters](https://oso.sh/blog/how-to-run-apache-kafka-across-multiple-kubernetes-clusters/)
-- [Kafka queues in Apache Kafka 4.0 via Share Groups](https://oso.sh/blog/kafka-queues-in-apache-kafka-4-0-via-share-groups/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
