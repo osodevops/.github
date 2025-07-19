@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [How to Build High-Performance Kafka Streams Applications That Scale Beyond Partition Limits](https://oso.sh/blog/how-to-build-high-performance-kafka-streams-applications-that-scale-beyond-partition-limits/)
 - [Productionise Kafka Streams State Stores: How Unbundled Architecture Transforms Kafka Streams Operations](https://oso.sh/blog/productionise-kafka-streams-state-stores-how-unbundled-architecture-transforms-kafka-streams-operations/)
 - [How to auto scale Apache Kafka with Tiered Storage in Production](https://oso.sh/blog/how-to-auto-scale-apache-kafka-with-tiered-storage-in-production/)
-- [How Kafka Consumer 4.0’s New Rebalance Protocol Eliminates the Two-Phase Bottleneck](https://oso.sh/blog/kafka-consumer-4-0-new-rebalance-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
