@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Apache Kafka’s KRaft Protocol: How to Eliminate Zookeeper and Boost Performance by 8x](https://oso.sh/blog/apache-kafkas-kraft-protocol-how-to-eliminate-zookeeper-and-boost-performance-by-8x/)
 - [How to Build High-Performance Kafka Streams Applications That Scale Beyond Partition Limits](https://oso.sh/blog/how-to-build-high-performance-kafka-streams-applications-that-scale-beyond-partition-limits/)
 - [Productionise Kafka Streams State Stores: How Unbundled Architecture Transforms Kafka Streams Operations](https://oso.sh/blog/productionise-kafka-streams-state-stores-how-unbundled-architecture-transforms-kafka-streams-operations/)
-- [How to auto scale Apache Kafka with Tiered Storage in Production](https://oso.sh/blog/how-to-auto-scale-apache-kafka-with-tiered-storage-in-production/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
