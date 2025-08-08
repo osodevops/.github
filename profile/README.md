@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [7 Must-Have CLI Tools Every Apache Kafka Engineer Should Know in 2025](https://oso.sh/blog/7-must-have-cli-tools-every-apache-kafka-engineer-should-know-in-2025/)
 - [Apache Kafka’s KRaft Protocol: How to Eliminate Zookeeper and Boost Performance by 8x](https://oso.sh/blog/apache-kafkas-kraft-protocol-how-to-eliminate-zookeeper-and-boost-performance-by-8x/)
 - [How to Build High-Performance Kafka Streams Applications That Scale Beyond Partition Limits](https://oso.sh/blog/how-to-build-high-performance-kafka-streams-applications-that-scale-beyond-partition-limits/)
-- [Productionise Kafka Streams State Stores: How Unbundled Architecture Transforms Kafka Streams Operations](https://oso.sh/blog/productionise-kafka-streams-state-stores-how-unbundled-architecture-transforms-kafka-streams-operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
