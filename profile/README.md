@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [How to Unify Multi-Platform Kafka Operations: A Complete Guide to Hybrid Deployment Success](https://oso.sh/blog/how-to-manage-hybrid-kafka-deployments-guide/)
 - [How to Use Kafka Streams Processor API for Complex Enterprise Applications](https://oso.sh/blog/how-to-use-kafka-streams-processor-api-for-complex-enterprise-applications/)
 - [Building a Unified Schema Registry: How to Eliminate Cross-System Compatibility Failures in Enterprise Data Architectures](https://oso.sh/blog/unified-schema-registry-cross-system-compatibility-enterprise/)
-- [KIP-714 Client Metrics: How Apache Kafka Finally Solved Its Biggest Monitoring Challenge](https://oso.sh/blog/kip-714-kafka-client-metrics-centralized-monitoring-solution/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
