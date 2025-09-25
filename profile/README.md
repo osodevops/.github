@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Solving the Hidden Consistency Crisis in Apache Kafka CDC Pipelines: Why Your Multi-Table Transactions Are Breaking Your Data](https://oso.sh/blog/apache-kafka-cdc-transaction-consistency-debezium-guide/)
 - [3 Essential Exception Handling Techniques for Kafka Streams: KIP-1033 Implementation Guide](https://oso.sh/blog/kafka-streams-processing-exception-handler-kip-1033-guide/)
 - [How to Unify Multi-Platform Kafka Operations: A Complete Guide to Hybrid Deployment Success](https://oso.sh/blog/how-to-manage-hybrid-kafka-deployments-guide/)
-- [How to Use Kafka Streams Processor API for Complex Enterprise Applications](https://oso.sh/blog/how-to-use-kafka-streams-processor-api-for-complex-enterprise-applications/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
