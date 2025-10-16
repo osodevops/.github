@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Building Multi-Region Orchestration with Apache Kafka: A Pull-Based Architecture](https://oso.sh/blog/kafka-multi-region-orchestration-architecture-pull-based-workflows/)
 - [How to Modify Kafka Streams Topologies in Production Without Breaking Everything: A Remapping Strategy](https://oso.sh/blog/kafka-streams-topology-changes-zero-downtime-remapping/)
 - [From Block to Object Storage: Engineering a Cost-Efficient Data Streaming Platform at Massive Scale](https://oso.sh/blog/kafka-object-storage-cost-optimization-disaggregated-architecture/)
-- [Solving the Hidden Consistency Crisis in Apache Kafka CDC Pipelines: Why Your Multi-Table Transactions Are Breaking Your Data](https://oso.sh/blog/apache-kafka-cdc-transaction-consistency-debezium-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
