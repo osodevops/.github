@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Why You Don’t Need Apache Flink for Agentic AI &lpar;And Why Akka Is the Simpler Choice&rpar;](https://oso.sh/blog/flink-vs-akka-agentic-ai-comparison/)
 - [Building Multi-Region Orchestration with Apache Kafka: A Pull-Based Architecture](https://oso.sh/blog/kafka-multi-region-orchestration-architecture-pull-based-workflows/)
 - [How to Modify Kafka Streams Topologies in Production Without Breaking Everything: A Remapping Strategy](https://oso.sh/blog/kafka-streams-topology-changes-zero-downtime-remapping/)
-- [From Block to Object Storage: Engineering a Cost-Efficient Data Streaming Platform at Massive Scale](https://oso.sh/blog/kafka-object-storage-cost-optimization-disaggregated-architecture/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
