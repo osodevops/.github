@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Current 2025: Watching Confluent Prepare for Sale in Real Time](https://oso.sh/blog/current-summit-new-orleans-2025-review/)
 - [Why You Don’t Need Apache Flink for Agentic AI &lpar;And Why Akka Is the Simpler Choice&rpar;](https://oso.sh/blog/flink-vs-akka-agentic-ai-comparison/)
 - [Building Multi-Region Orchestration with Apache Kafka: A Pull-Based Architecture](https://oso.sh/blog/kafka-multi-region-orchestration-architecture-pull-based-workflows/)
-- [How to Modify Kafka Streams Topologies in Production Without Breaking Everything: A Remapping Strategy](https://oso.sh/blog/kafka-streams-topology-changes-zero-downtime-remapping/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
