@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Protocol Internals: How Partition Remapping Proxies Transform Messages Without Breaking Clients](https://oso.sh/blog/kafka-protocol-internals-partition-remapping-proxy/)
 - [How to Back Up Your Kafka Cluster: A Guide to Point-in-Time Recovery](https://oso.sh/blog/how-to-back-up-kafka-cluster-point-in-time-recovery/)
 - [Current 2025: Watching Confluent Prepare for Sale in Real Time](https://oso.sh/blog/current-summit-new-orleans-2025-review/)
-- [Why You Don’t Need Apache Flink for Agentic AI &lpar;And Why Akka Is the Simpler Choice&rpar;](https://oso.sh/blog/flink-vs-akka-agentic-ai-comparison/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
