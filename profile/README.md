@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [What Every Engineer Who Uses Apache Kafka Needs to Know for 2026](https://oso.sh/blog/what-every-kafka-engineer-needs-to-know-2026/)
 - [Kafka Protocol Internals: How Partition Remapping Proxies Transform Messages Without Breaking Clients](https://oso.sh/blog/kafka-protocol-internals-partition-remapping-proxy/)
 - [How to Back Up Your Kafka Cluster: A Guide to Point-in-Time Recovery](https://oso.sh/blog/how-to-back-up-kafka-cluster-point-in-time-recovery/)
-- [Current 2025: Watching Confluent Prepare for Sale in Real Time](https://oso.sh/blog/current-summit-new-orleans-2025-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
