@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [How to Eliminate the 5 Hidden Cost Traps in Your Kafka-to-Iceberg Pipeline](https://oso.sh/blog/how-to-reduce-kafka-to-iceberg-pipeline-costs/)
 - [How to Build a Real-Time Context Engine for AI Agents Using Event Driven Architectures](https://oso.sh/blog/how-to-build-real-time-context-engine-ai-agents-apache-kafka/)
 - [What Every Engineer Who Uses Apache Kafka Needs to Know for 2026](https://oso.sh/blog/what-every-kafka-engineer-needs-to-know-2026/)
-- [Kafka Protocol Internals: How Partition Remapping Proxies Transform Messages Without Breaking Clients](https://oso.sh/blog/kafka-protocol-internals-partition-remapping-proxy/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
