@@ -9,8 +9,8 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - uses: gautamkrishnar/blog-post-workflow@71dc71018921efdf8a81745f431f32c989f699a7 # v1
         with:
           # Your RSS feed url
           feed_list: "https://oso.sh/blog/feed"
