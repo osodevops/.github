@@ -19,7 +19,7 @@ jobs:
         with:
           gh_token: ${{ secrets.RELEASE_PAT }}
           # Your RSS feed url
-          feed_list: "https://oso.sh/blog/feed"
+          feed_list: "https://oso.sh/blog/feed/"
           # Maximum number of posts you want
           max_post_count: 3
           # readme path
