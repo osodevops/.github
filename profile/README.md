@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [An Automated Tool for End-to-End MSK ZooKeeper-to-KRaft Migration](https://oso.sh/blog/automated-msk-zookeeper-to-kraft-migration/)
 - [How to Back Up Your Kafka Schema Registry &lpar;And Why Your Current Approach Probably Won’t Restore&rpar;](https://oso.sh/blog/how-to-backup-kafka-schema-registry/)
 - [How to Build a Well-Architected Kafka Backup Strategy: Six Pillars for Protecting Your Streaming Data](https://oso.sh/blog/kafka-backup-well-architected-framework-six-pillars/)
-- [Why One Kafka Connector Should Replace 200: How AI Is Finally Fixing the Integration Sprawl Problem](https://oso.sh/blog/ai-kafka-connector-reduce-connect-sprawl/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
