@@ -4,8 +4,10 @@ on:
   schedule:
     - cron: '0 12 * * *' # every day at noon
 
+# The built-in GITHUB_TOKEN commits the README update (and the action's
+# keep-alive commit) to this repo, so no personal access token is needed.
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   update-readme-with-blog:
@@ -13,11 +15,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
-        with:
-          token: ${{ secrets.RELEASE_PAT }}
       - uses: gautamkrishnar/blog-post-workflow@71dc71018921efdf8a81745f431f32c989f699a7 # v1
         with:
-          gh_token: ${{ secrets.RELEASE_PAT }}
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
           # Your RSS feed url
           feed_list: "https://oso.sh/blog/feed/"
           # Maximum number of posts you want
