@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Monitoring and Observability: The Metrics and Tools That Matter](https://oso.sh/blog/kafka-monitoring-tools/)
 - [Amazon MSK vs Confluent Cloud: Which Should You Run Kafka On?](https://oso.sh/blog/amazon-msk-vs-confluent-cloud/)
 - [Best Managed Apache Kafka Services in 2026: How They Compare](https://oso.sh/blog/best-managed-kafka-services/)
-- [How to Cut Your Snowflake Bill by Up to 55% with a single Open Source CLI tool](https://oso.sh/blog/open-source-snowflake-cost-optimization-tool/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
