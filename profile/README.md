@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Replication Explained: Replicas, ISR and min.insync.replicas](https://oso.sh/blog/kafka-replication-explained/)
 - [Kafka vs RabbitMQ: Differences, Use Cases and How to Choose](https://oso.sh/blog/kafka-vs-rabbitmq/)
 - [Kafka Monitoring and Observability: The Metrics and Tools That Matter](https://oso.sh/blog/kafka-monitoring-tools/)
-- [Amazon MSK vs Confluent Cloud: Which Should You Run Kafka On?](https://oso.sh/blog/amazon-msk-vs-confluent-cloud/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
