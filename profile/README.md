@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Kafka Interview Questions Engineers Actually Get Asked](https://oso.sh/blog/kafka-interview-questions/)
 - [Strimzi Kafka Operator: Running Kafka on Kubernetes in Production](https://oso.sh/blog/strimzi-kafka-operator-guide/)
 - [MSK Connect: How Managed Kafka Connect on AWS Works and What It Costs](https://oso.sh/blog/msk-connect-guide/)
-- [Kafka Replication Explained: Replicas, ISR and min.insync.replicas](https://oso.sh/blog/kafka-replication-explained/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
