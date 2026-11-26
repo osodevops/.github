@@ -10,9 +10,9 @@ We offer a variety of tailored consultancy services and bring industry-leading e
 
 ## Latest blog posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Redis Streams vs Kafka: When Each One Fits](https://oso.sh/blog/redis-streams-vs-kafka/)
 - [Kafka Message Structure: Keys, Values and Headers](https://oso.sh/blog/kafka-message-structure/)
 - [Kafka Connect S3: Sink and Source Connector Guide](https://oso.sh/blog/kafka-connect-s3/)
-- [Spring Kafka: Produce, Consume and Handle Errors](https://oso.sh/blog/spring-kafka/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Need some help? 🤔
